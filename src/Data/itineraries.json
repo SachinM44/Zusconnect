@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "destination": "Taj Mahal, Agra",
+      "duration": "2 days",
+      "price": 5000,
+      "thumbnail": "/src/assets/taj.png",
+      "details": "Visit the iconic Taj Mahal, a UNESCO World Heritage site and one of the Seven Wonders of the World."
+    },
+    {
+      "id": 2,
+      "destination": "Jaipur",
+      "duration": "3 days",
+      "price": 7000,
+      "thumbnail": "/src/assets/Jaipur.webp",
+      "details": "Explore the Pink City, known for its beautiful palaces and vibrant markets."
+    },
+    {
+      "id": 3,
+      "destination": "Goa",
+      "duration": "5 days",
+      "price": 12000,
+      "thumbnail": "/src/assets/goa4.png",
+      "details": "Relax on the stunning beaches and enjoy the vibrant nightlife of Goa."
+    },
+    {
+      "id": 4,
+      "destination": "Kerala",
+      "duration": "7 days",
+      "price": 15000,
+      "thumbnail": "/src/assets/Kerala.webp",
+      "details": "Experience the backwaters and lush landscapes of God's Own Country."
+    },
+    {
+      "id": 5,
+      "destination": "Manali",
+      "duration": "4 days",
+      "price": 8000,
+      "thumbnail": "/src/assets/Manali.jpg",
+      "details": "Enjoy the scenic beauty and adventure activities in this popular hill station."
+    },
+    {
+      "id": 6,
+      "destination": "Rishikesh",
+      "duration": "3 days",
+      "price": 6000,
+      "thumbnail": "/src/assets/Rishikesh.jpg",
+      "details": "The Yoga Capital of the World, known for its spiritual significance and adventure sports."
+    },
+    {
+      "id": 7,
+      "destination": "Udaipur",
+      "duration": "3 days",
+      "price": 9000,
+      "thumbnail": "/src/assets/Udaipur.jpg",
+      "details": "Known as the City of Lakes, Udaipur is famous for its palaces and romantic setting."
+    },
+    {
+      "id": 8,
+      "destination": "Mysore",
+      "duration": "2 days",
+      "price": 4000,
+      "thumbnail": "/src/assets/Mysore.jpg",
+      "details": "Explore the rich history and vibrant culture of Mysore, especially during the Dasara festival."
+    }
+  ]
+  
